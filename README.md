@@ -13,7 +13,7 @@ And provide to insert a new phrase:
 <hr>
 <h2>Instructions</h2>
 1)Clone this repository to your local or download it. <br>
-2)Please note that PHP 8 is required, use composer update in your directory <br>
+2)Use composer update and npm install in your directory <br>
 3)Fill the database (blog.sql)<br>
 4)Create a .env file by copying variables from example.env.txt Fill in those values in .env file<br>
 5)Create a .htaccess file (in public directory) by copying from htaccess.txt .<br>
