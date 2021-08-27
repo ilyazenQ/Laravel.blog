@@ -1,15 +1,13 @@
 # Laravel.blog
 <h2>Summary</h2>
-This project is implement MVC fraemwork use OOP as well as database to store and get the data.<br>
-The basic skeleton of fraemwork code i had provide in Basic-MVC branch.<br>
-The current branch have example project to use fraemwork. <br>
-There are a few page:
-The first page  displays orders from northwind db, and provide to search any orders:
-<img src="https://github.com/ilyazenQ/PHP.MVC.framework/blob/main/gitpictures/1.PNG">
-The second page displays most popular phrases used by managers:
-<img src="https://github.com/ilyazenQ/PHP.MVC.framework/blob/main/gitpictures/2.PNG">
-And provide to insert a new phrase:
-<img src="https://github.com/ilyazenQ/PHP.MVC.framework/blob/main/gitpictures/3.PNG">
+This project use Laravel 8.<br>
+On main page were created basic web blog structures: categories, pagination, searching, posts, etc.<br>
+<img src="https://github.com/ilyazenQ/Laravel.blog/blob/main/gitpictures/1.PNG">
+On admin page were created CRUD for all site structures.<br>
+*To enter the admin panel you should press LOGIN. Аdmin account<br>
+login: admin@email.com<br>
+pass: admin<br>
+<img src="https://github.com/ilyazenQ/Laravel.blog/blob/main/gitpictures/2.PNG">
 <hr>
 <h2>Instructions</h2>
 1)Clone this repository to your local or download it. <br>
